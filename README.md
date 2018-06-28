@@ -26,8 +26,7 @@ The Python GUI is split into 3 files;
 3. **Globals.py:** Global variables and debug tools.
 
 To run the Python GUI for a biosignal acquisition device:
-1. Install [pySerial](http://pyserial.readthedocs.io/en/latest/pyserial.html)
-2. 
-1. Clone the project to your computer
-2. Navigate to the folder that contains the code for the Python GUI in the terminal: 
-3. Run the program: `$ python AtmelPythonMainProgram.py`
+1. Install [pySerial](http://pyserial.readthedocs.io/en/latest/pyserial.html) + all the other Python packages that is remarkably hard to do // TO DO: put in instructions how to (as soon as I get it running on my computer again, it's been 3 years since I did it last time)
+2. Clone the project to your computer
+3. Navigate to the folder that contains the code for the Python GUI in the terminal: 
+4. Run the program: `$ python AtmelPythonMainProgram.py`
