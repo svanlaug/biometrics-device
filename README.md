@@ -7,6 +7,10 @@ I wrote my M.Sc. thesis in collaboration with SoundCloud, a company that creates
 
 My M.Sc. thesis explored the relation between physiological signals and experienced musical emotions from a practical viewpoint. This was done in order to evaluate the feasibility of using physiological signals as input for music recommendations. For this purpose I conducted a study on 24 participants where their subjective and physiological measurements were recorded while they listened to self-selected musical stimuli. When I conducted the study, in January 2016, wearables on the market were not sparse, but their sensors however were very limited. That's why, I built my own, to get full access to the raw data from sensors and to be able to determine the sampling frequency. 
 
+My hopes with this repo are that people will be able to build upon this work, and start quantifying their biometrics.
+
+![The beautiful device](https://user-images.githubusercontent.com/6841437/42059438-6168bb36-7b1b-11e8-8f8c-811e8cdc0b79.png)
+
 ## Atmel Microcontroller 
 Atmel code is split into 3 files;
 
